@@ -1,0 +1,28 @@
+.AppContainer {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.bar-section-container {
+  display: flex;
+}
+
+.bar-section {
+  width: 50px;
+  height: 10px;
+  border-radius: 5px;
+  margin: 2px;
+}
+
+label {
+  display: flex;
+  flex-direction: column;
+}
+
+input {
+  margin: 5px;
+}/*# sourceMappingURL=App.css.map */
